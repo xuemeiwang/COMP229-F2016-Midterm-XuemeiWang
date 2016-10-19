@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_F2016_Midterm_XuemeiWang
-{
-
-
-    public partial class Default
-    {
-
+namespace COMP229_F2016_Midterm_XuemeiWang {
+    
+    
+    public partial class Default {
+        
         /// <summary>
         /// content control.
         /// </summary>
@@ -22,5 +20,23 @@ namespace COMP229_F2016_Midterm_XuemeiWang
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl content;
+        
+        /// <summary>
+        /// PageSizeDropDownList control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList PageSizeDropDownList;
+        
+        /// <summary>
+        /// TodoGridView control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView TodoGridView;
     }
 }
